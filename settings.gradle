@@ -1,0 +1,3 @@
+include ':app', ':Slidingmenulibrary'
+include ':library'
+include ':sample'
